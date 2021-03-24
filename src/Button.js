@@ -66,13 +66,16 @@ const OutlineButton = styled(ButtonElem)`
   background-color: ${COLORS.white};
   color: ${COLORS.primary};
   border: 2px solid currentColor;
+  &:hover {
+    background-color: ${COLORS.offwhite};
+  }
 `;
 
 const GhostButton = styled(ButtonElem)`
   background-color: ${COLORS.white};
   color: ${COLORS.gray};
   &:focus {
-    outline-color: gray;
+    outline-color: ${COLORS.gray};
   }
   &:hover {
     background-color: ${COLORS.transparentGray15};
