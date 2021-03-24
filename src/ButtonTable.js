@@ -16,17 +16,17 @@ const ButtonTable = () => {
         <td>Small</td>
         <td>
           <Button size="small" variant="fill">
-            Button
+            BUTTON
           </Button>
         </td>
         <td>
           <Button size="small" variant="outline">
-            Button
+            BUTTON
           </Button>
         </td>
         <td>
           <Button size="small" variant="ghost">
-            Button
+            BUTTON
           </Button>
         </td>
       </tr>
@@ -34,17 +34,17 @@ const ButtonTable = () => {
         <td>Medium</td>
         <td>
           <Button size="medium" variant="fill">
-            Button
+            BUTTON
           </Button>
         </td>
         <td>
           <Button size="medium" variant="outline">
-            Button
+            BUTTON
           </Button>
         </td>
         <td>
           <Button size="medium" variant="ghost">
-            Button
+            BUTTON
           </Button>
         </td>
       </tr>
@@ -52,17 +52,17 @@ const ButtonTable = () => {
         <td>Large</td>
         <td>
           <Button size="large" variant="fill">
-            Button
+            BUTTON
           </Button>
         </td>
         <td>
           <Button size="large" variant="outline">
-            Button
+            BUTTON
           </Button>
         </td>
         <td>
           <Button size="large" variant="ghost">
-            Button
+            BUTTON
           </Button>
         </td>
       </tr>
